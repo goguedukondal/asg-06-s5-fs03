@@ -1,0 +1,30 @@
+.nav-container{
+    display: flex;
+    height:40px;
+   
+    gap: 220px;
+    padding: 10px;
+    padding-left: 80px;
+    padding-top: 20px;
+}
+.left{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+.right{
+    display:flex;
+    gap: 20px;
+    justify-content: space-between;
+}
+.right button{
+    background-color:green;
+    height: 30px;
+    width: 100px;
+    color: white;
+    border: none;
+    margin-top: 10px;
+}
+.left p{
+    font-weight: bold;
+}

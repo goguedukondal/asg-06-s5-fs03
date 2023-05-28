@@ -1,0 +1,12 @@
+.header-container{
+    background-color:#11009E;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+button{
+    background-color: green;
+    border: none;
+    padding: 8px;
+    color: white;
+}
